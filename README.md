@@ -1,7 +1,8 @@
 # CV
 
-* A one-column cv template.
+* CV of Abhishek Ramanathapura Satyanarayana
+* Look at [LICENSE](LICENSE) for the template License, the data is owned by Abhishek Ramanathapura Satyanarayana
 
 ### Reference
-* Sourabh Bajaj created this template.
-* The link of [Original repo](https://github.com/sb2nov/resume). Thanks Sourabh Bajaj for this template.
+* Thanks Sourabh Bajaj for this template.
+* The link of [Original repo](https://github.com/sb2nov/resume).
